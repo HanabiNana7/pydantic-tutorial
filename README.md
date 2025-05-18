@@ -15,14 +15,16 @@
 ---
 
 ## 專案結構
+
+```text
 pydantic-tutorial/
-│
 ├── app/
-    ├── src/pydantic_tutorial/      # 套件原始碼
-    │   ├── models.py               # Pydantic 資料模型
-    │   ├── settings.py             # 設定管理
-    │   └── main.py                 # 範例執行入口
-    └── tests/                      # pytest 測試
+│   ├── src/pydantic_tutorial/      # 套件原始碼
+│   │   ├── models.py               # Pydantic 資料模型
+│   │   ├── settings.py             # 設定管理
+│   │   └── main.py                 # 範例執行入口
+│   └── tests/                      # pytest 測試
+```
 
 ---
 
